@@ -1,0 +1,4 @@
+pyvaakya
+========
+
+Vaakya - Searchable Vedas
